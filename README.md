@@ -2,7 +2,7 @@
 I wrote this bot just for the purpose of automating some tasks on my private Discord server, but decided to upload the code because why not
 
 Written entirely in Go, features some features like 
-* A database of blacklisted string which will prevent anyone from making a role with that string in it
+* A database of blacklisted strings which will prevent anyone from making a role with that string in it
 * Snarky help and about embeds
 * Vomit command
 * Banned nickname fixer
