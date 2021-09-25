@@ -1,0 +1,29 @@
+{
+	"website":				"nil",
+	"audioFiles":			"./data/soundboard/main/",
+	"respondData":			"./data/respond.json",
+	"memberData":			"./data/members.json",
+	"blacklistData":		"./data/blacklist.json",
+	
+	"ID": {
+		"owner":			"0",
+		"guild":			"0"
+	},
+	
+	"modules": {
+		"respond":			true,
+		"info":				true,
+		"sticks":			true,
+		"avatar":			true,
+		"tiktok":			true,
+		"cry":				true,
+		"lights":			true,
+		"soundboard":		true,
+		"tweet":			true,
+		"selfEsteem":		true,
+		"animals":			true,
+		"birthday":			true,
+		"abuse":			true,
+		"guts":				true
+	}
+}

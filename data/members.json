@@ -1,0 +1,12 @@
+[
+	{
+		"name":		"Example 1",
+		"id":		"0",
+		"birthday":	"1969-12-31"
+	},
+	{
+		"name":		"Example 2",
+		"id":		"1",
+		"birthday":	"2007-06-29"
+	}
+]

@@ -1,2 +1,6 @@
 /cara
 *.sh
+!/build.sh
+*.bat
+token
+*.exe
