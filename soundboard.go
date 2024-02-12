@@ -15,7 +15,7 @@ import (
 
 func soundboard (s *discordgo.Session, i *discordgo.InteractionCreate) {
 	// Check if it's the right command and see if the feature is even enabled
-	if i.Data.Name != "soundboard" || config.Modules.Diegoism != true || config.AudioFiles == "" {
+	if i.Data.Name != "soundboard" || config.Modules.Soundboard != true || config.AudioFiles == "" {
 		return
 	}
 	
