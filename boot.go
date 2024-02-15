@@ -53,7 +53,6 @@ func main() {
 	s.AddHandler(sticks)
 	s.AddHandler(avatar)
 	s.AddHandler(tweet)
-	s.AddHandler(soundboard)
 	s.AddHandler(restore)
 	s.AddHandler(kick)
 	s.AddHandler(respond)

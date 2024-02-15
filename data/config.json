@@ -1,6 +1,5 @@
 {
 	"website":				"nil",
-	"audioFiles":			"./data/soundboard/main/",
 	"respondData":			"./data/respond.json",
 	"memberData":			"./data/members.json",
 	"blacklistData":		"./data/blacklist.json",
@@ -18,7 +17,6 @@
 		"tiktok":			true,
 		"cry":				true,
 		"lights":			true,
-		"soundboard":		true,
 		"tweet":			true,
 		"selfEsteem":		true,
 		"animals":			true,

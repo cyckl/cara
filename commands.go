@@ -125,12 +125,6 @@ var (
 				},
 			},
 		},
-		
-		// Soundboard
-		{
-			Name:			"soundboard",
-			Description:	"Play a random sound",
-		},
 	}
 )
 

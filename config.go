@@ -43,7 +43,6 @@ type Modules struct {
 	Tiktok			bool	`json:"tiktok"`
 	Cry				bool	`json:"cry"`
 	Lights			bool	`json:"lights"`
-	Soundboard		bool	`json:"soundboard"`
 	Tweet			bool	`json:"tweet"`
 	
 	// Background modules
